@@ -1,7 +1,4 @@
 # Ink
-
-Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com) 
-
 ![Screenshot](http://avatar.csdn.net/5/A/4/2_sdaujiaojiao.jpg)
 
 # Installation 
@@ -21,8 +18,8 @@ Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com)
 # Configuration 
  * Change the following in ```_config.yml```
  ```
-    name:               "Ink"
-    description:        "A minimalistic jekyll theme for humans"
+    name:               "落日炊烟"
+    description:        "永远的记忆"
     url:                ""
     author:             "thinker3197"
     email:              "jhondoe@abc.com"
